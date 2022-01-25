@@ -1,0 +1,5 @@
+       }
+        return succesor(t.left);
+    }
+
+
